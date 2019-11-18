@@ -1,0 +1,72 @@
+body{
+  background-color: #231a1a;
+  color: #dda7d6;
+  text-align: center;
+  font-family: monospace;
+}
+
+nav {
+  background-color: #231a1a;
+}
+
+nav a{
+  color: white;
+}
+
+nav a img{
+  filter: invert(1);
+  width: 17px;
+}
+
+.lastest_logo a img{
+  padding: 2vh 0;
+  width:90%;
+}
+
+.album {
+border-bottom: 1px solid white;
+padding-bottom: 5vh;
+}
+
+.album h5{
+  padding: 5vh 0;
+}
+
+.contactLinks{
+  padding:5vh 0;
+}
+.contactLinks img{
+  filter: invert(1);
+  width: 17px;
+}
+.contactLinks a{
+  color:white;
+}
+
+.copyright{
+  /* padding-top: 1vh; */
+  font-size: 10px;
+  padding-bottom: 1vh;
+}
+
+hr {
+  border-top: 1px solid white;
+}
+
+@media only screen and (min-device-width:984px){
+  body{
+    width:980px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .navbar ul li{
+    padding: 0 10px;
+    border-right: 1px solid white;
+  }
+
+  .lastest_logo a img{
+    width:25%;
+  }
+
+}

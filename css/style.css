@@ -1,0 +1,153 @@
+/* AZUL #182120 */
+/* AMARILLO #d69a39 */
+body{
+  background-image: url("../img/bg-seamless-2.png");
+  background-size: auto;
+  background-attachment: fixed;
+  font-family: monospace;
+  color: #d69a39;
+}
+.bg-transparent{
+  background-color: transparent !important;
+}
+.navbar{
+  background-image: url("../img/bg-seamless-2.png");
+  background-size: auto;
+  background-attachment: fixed;
+}
+a{
+  color: #d69a39;
+}
+a:hover{
+  color:white;
+}
+.lookHere{
+  height:100vh;
+}
+.mainAlbum{
+  width:75%;
+}
+.bg-AIBrown{
+  background-color: #231a1a;
+  color:#dda7d6;
+}
+.bg-AIBrown a{
+  color:#dda7d6;
+}
+.bg-AIBrown a:hover{
+  color:white;
+}
+.bg-tdas{
+  background-image: url("../img/bg-tdas-1.png");
+  background-size: auto;
+  color:white;
+}
+.bg-tdas a{
+  color:white;
+}
+.bg-tdas a:hover{
+  color:green;
+}
+.bg-talasofobia2{
+  background-image: url("../img/bg-tala2-1.png");
+  background-size: auto;
+  color:grey;
+}
+.bg-talasofobia2 a{
+  color:grey;
+}
+.bg-talasofobia2 a:hover{
+  color:white;
+}
+.bg-alesa{
+  background-image: url("../img/bg-alesa-1.png");
+  background-size: auto;
+  color:grey;
+}
+.bg-alesa a{
+  color:grey;
+}
+.bg-alesa a:hover{
+  color:white;
+}
+.cardLinks{
+  font-size: 2rem;
+}
+ul{
+  list-style-type: none;
+}
+.albumCover{
+  width:50%;
+  margin: auto;
+  display: block;
+}
+.card ul{
+  font-size:x-large
+}
+.iframe_container{
+  margin-top: 5vh;
+  position:relative;
+  width:90%;
+  padding-bottom: 50.625%;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.iframe_container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+footer.page-footer a{
+  color: #d69a39;
+}
+footer div ul li a:hover{
+  color:white;
+}
+footer.page-footer .footer-copyright{
+  color: #d69a39;
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .mainAlbum{
+    width:60%;
+  }
+  .lookHere{
+    font-size:x-large;
+  }
+  .lookHere h3{
+    font-size:1.5rem
+  }
+  .lookHere h5{
+    font-size:1.5rem
+  }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .brand{
+    margin-top: 0.5rem;
+    width:10vw;
+  }
+  .mainAlbum{
+    width:17%;
+  }
+}
+
+/* Notebook */
+@media (min-width:1280px) and (max-height:608px){
+  .mainAlbum{
+    width:17%;
+  }
+}
+@media (min-width:1360px) and (max-height:676px){
+  .mainAlbum{
+    width:15%;
+  }
+}
+@media (min-width:1536px) and (max-height:731px){
+  .mainAlbum{
+    width:17%;
+  }
+}

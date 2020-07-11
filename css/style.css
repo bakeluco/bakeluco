@@ -53,7 +53,8 @@ a:hover{
   color:green;
 }
 .bg-talasofobia2{
-  background-image: url("../img/bg-tala2-1.png");
+  /* background-image: url("../img/bg-tala2-1.png"); */
+  background-color: #1f2535;
   background-size: auto;
   color:grey;
 }
@@ -64,7 +65,8 @@ a:hover{
   color:white;
 }
 .bg-alesa{
-  background-image: url("../img/bg-alesa-1.png");
+  /* background-image: url("../img/bg-alesa-1.png"); */
+  background-color: #111717;
   background-size: auto;
   color:grey;
 }
@@ -87,6 +89,30 @@ ul{
 }
 .card ul{
   font-size:x-large
+}
+.album-cover{
+  width: 300px;
+}
+.aishite{
+  color:pink;
+}
+.trastorno{
+  color:white;
+}
+.trastorno:hover{
+  color:green;
+}
+.talaso2{
+  color:grey;
+}
+.talaso2:hover{
+  color:white;
+}
+.alesa{
+  color:grey;
+}
+.alesa:hover{
+  color:white;
 }
 .iframe_container{
   margin-top: 5vh;

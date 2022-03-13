@@ -3,10 +3,10 @@
 **bakeluco/bakeluco** is ✨ 🔗[My Personal Website](https://bakeluco.com.ar)🔗 ✨
 
 Here you'll find all my released music. I guess it's kinda like a personal blog post.  
-Now, remade in with Vue 3 & tailwindcss.  
+Now, remade with Vue 3 & tailwindcss.  
 🎶 Thanks! 🎶  
 
-### Skills 🖥
+### 🖥 Skills 🖥
 
 - ⚡ Vue / React / Node / SQL / MongoDB / ASP.NET / PHP / HTML / CSS
 - 🌱 Next up? Python / AWS / Azure / MORE MUSIC

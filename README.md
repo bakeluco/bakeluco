@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my public profile. For my private one check out 🔒 github.com/luciano-cassinerio
+This is my public profile. My private profile [here](https://github.com/luciano-cassinerio) 🔒 
 
 **bakeluco/bakeluco** is ✨ 🔗[My Personal Website](https://bakeluco.com.ar)🔗 ✨
 

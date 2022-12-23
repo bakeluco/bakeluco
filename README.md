@@ -1,15 +1,16 @@
 ### Hi there 👋
 
+This is my public profile. For my private one check out 🔒 github.com/luciano-cassinerio
+
 **bakeluco/bakeluco** is ✨ 🔗[My Personal Website](https://bakeluco.com.ar)🔗 ✨
 
-Here you'll find all my released music. I guess it's kinda like a personal blog post.  
-Now, remade with Vue 3 & tailwindcss.  
+Here you'll find all my released music. 
 🎶 Thanks! 🎶  
 
 ### 🖥 Skills 🖥
 
-- ⚡ Vue / React / Node / SQL / MongoDB / ASP.NET / PHP / HTML / CSS
-- 🌱 Next up? Python / AWS / Azure / MORE MUSIC
+- ⚡ Now: Vue / Rails / SQL / AWS
+- 🧠 Past: SpringBoot / React / Node / MongoDB / Firebase / ASP.NET / PHP
 - 📫 Find me @ [Linkedin](https://www.linkedin.com/in/bakeluco/)
 - 🎼 [Spotify](https://open.spotify.com/artist/7Gs9ImszFHDyywpsVPjrEa)
 - 📷 [Instagram](https://www.instagram.com/bakeluco/)
